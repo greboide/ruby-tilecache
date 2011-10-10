@@ -3,5 +3,5 @@ Gem::Specification.new do |s|
   s.summary = "An implementation of TileCache from MetaCarta, written in pure Ruby"
   s.files = Dir.glob('lib/**/*')
   s.require_path = 'lib'
-  s.version = 0.0.4.1
+  s.version = "0.0.4.1"
 end
